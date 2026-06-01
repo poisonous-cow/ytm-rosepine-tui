@@ -11,3 +11,4 @@ open youtube music -> options -> visual tweaks -> theme -> import custom css fil
 
 ## notes
 had help from claude as i do not know the structure of youtube music's frontend
+screenshots are overexposed due to hdr (color correction did not fix it)
