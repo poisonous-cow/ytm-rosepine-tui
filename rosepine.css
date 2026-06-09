@@ -279,8 +279,8 @@ yt-formatted-string[has-link-only_]:not([force-default-style]) .content-info-wra
 }
 
 /* title bar */
-ytmd-title-bar-main-panel {
-  color: var(--rp-surface) !important;
+#ytmd-title-bar-main-panel {
+  background-color: var(--rp-surface) !important;
 }
 
 ytmusic-browse-response yt-formatted-string:not(.title):not(.byline) {
