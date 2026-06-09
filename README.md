@@ -1,7 +1,7 @@
 # ytm-rosepine-tui
 A tui styled rose pine theme for youtube music desktop
 
-## prerequisites :3 
+## prerequisites 
 i used pear-desktop for plugins: https://github.com/pear-devs/pear-desktop
 
 ## installation
