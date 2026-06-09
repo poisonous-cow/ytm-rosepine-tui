@@ -10,6 +10,6 @@ download the css file
 open youtube music -> options -> visual tweaks -> theme -> import custom css file
 
 ## notes
-had help from claude as i do not know the structure of youtube music's frontend
+had help from claude as i do not know the structure of youtube music's frontend (used claude to get the elements)
 
 screenshots are overexposed due to hdr (color correction did not fix it)
